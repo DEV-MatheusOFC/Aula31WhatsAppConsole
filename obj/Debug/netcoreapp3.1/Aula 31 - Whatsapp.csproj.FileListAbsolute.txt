@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Senai - Atividades\Aula 31 - Whatsapp\bin\Debug\netcoreapp3.1\Aula 31 - Whatsapp.exe
+C:\Users\admin\Desktop\Senai - Atividades\Aula 31 - Whatsapp\bin\Debug\netcoreapp3.1\Aula 31 - Whatsapp.deps.json
+C:\Users\admin\Desktop\Senai - Atividades\Aula 31 - Whatsapp\bin\Debug\netcoreapp3.1\Aula 31 - Whatsapp.runtimeconfig.json
+C:\Users\admin\Desktop\Senai - Atividades\Aula 31 - Whatsapp\bin\Debug\netcoreapp3.1\Aula 31 - Whatsapp.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Senai - Atividades\Aula 31 - Whatsapp\bin\Debug\netcoreapp3.1\Aula 31 - Whatsapp.dll
+C:\Users\admin\Desktop\Senai - Atividades\Aula 31 - Whatsapp\bin\Debug\netcoreapp3.1\Aula 31 - Whatsapp.pdb
+C:\Users\admin\Desktop\Senai - Atividades\Aula 31 - Whatsapp\obj\Debug\netcoreapp3.1\Aula 31 - Whatsapp.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Senai - Atividades\Aula 31 - Whatsapp\obj\Debug\netcoreapp3.1\Aula 31 - Whatsapp.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Senai - Atividades\Aula 31 - Whatsapp\obj\Debug\netcoreapp3.1\Aula 31 - Whatsapp.AssemblyInfo.cs
+C:\Users\admin\Desktop\Senai - Atividades\Aula 31 - Whatsapp\obj\Debug\netcoreapp3.1\Aula 31 - Whatsapp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Senai - Atividades\Aula 31 - Whatsapp\obj\Debug\netcoreapp3.1\Aula 31 - Whatsapp.dll
+C:\Users\admin\Desktop\Senai - Atividades\Aula 31 - Whatsapp\obj\Debug\netcoreapp3.1\Aula 31 - Whatsapp.pdb
+C:\Users\admin\Desktop\Senai - Atividades\Aula 31 - Whatsapp\obj\Debug\netcoreapp3.1\Aula 31 - Whatsapp.genruntimeconfig.cache
